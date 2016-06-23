@@ -1,2 +1,0 @@
-# PhotoBrowser
-photoBrowser for webImage
